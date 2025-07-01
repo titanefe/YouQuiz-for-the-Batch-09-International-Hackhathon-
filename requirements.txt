@@ -1,0 +1,9 @@
+langchain==0.3.25
+langchain-community==0.3.24
+langchain-ollama==0.3.3
+pytubefix==9.2.1
+faiss-cpu==1.11.0
+protobuf==5.29.4
+ipython==9.2.0
+sentence-transformers==4.1.0
+faster-whisper==1.1.1
